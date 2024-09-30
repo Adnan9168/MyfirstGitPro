@@ -1,3 +1,3 @@
 # MyfirstGitPro
-This is my first GIT Repositary
-Practicing Github
+This is my first GIT Repositary.<br>
+Author Adnan
